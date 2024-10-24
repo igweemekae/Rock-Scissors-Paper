@@ -1,0 +1,21 @@
+button {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#result {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#score {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#winner {
+    font-size: 26px;
+    color: darkgreen;
+    margin-top: 20px;
+}
